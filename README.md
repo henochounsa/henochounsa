@@ -2,7 +2,7 @@
 - 👀 I’m interested in web/mobile development projects
 - 🌱 I’m currently work on blockchain and data sciences
 - 💞️ I’m looking for job or collabore
-- 📫 To reach me : henochounsa@gmail.com or +22996820190
+- 📫 To reach me : henochounsa@gmail.com or 07 53 73 98 05
 
 <!---
 henochounsa/henochounsa is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
