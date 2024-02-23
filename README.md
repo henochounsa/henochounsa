@@ -1,6 +1,6 @@
 👋 Hi, I’m @henochounsa,
-👀 I’m Fullstack React/Node and Angular developer. I have 8 years of experiences and
-🌱 I am currently working as a full-stack developer in Paris, France.
+
+👀 I’m Fullstack React/Node and Angular developer with 8 years of experiences currently working as a full-stack developer in Paris, France.
 
 💞️ I’m looking for job or collabore
 📫 To reach me : henochounsa@gmail.com or +33 7 53 73 98 05
